@@ -1,12 +1,19 @@
 # WANDALIND
 
-WANDALIND je brend za savremene stambene projekte, kuće i stanove u Srbiji. Slogan: Život sa stilom.
+WANDALIND — projektovanje, gradnja i prodaja kuća i stanova sa stilom u Beogradu i Srbiji.
 
 ## Glavne stranice
-- https://www.wandalind.rs/
-- https://www.wandalind.rs/kuce-na-prodaju-beograd/
-- https://www.wandalind.rs/kuce-na-prodaju-surcin/
-- https://www.wandalind.rs/novogradnja-beograd/
-- https://www.wandalind.rs/gradnja-kuca-beograd/
 
-Kontakt: office@wandalind.rs
+- [WANDALIND](https://www.wandalind.rs/)
+- [Kuće na prodaju Beograd](https://www.wandalind.rs/kuce-na-prodaju-beograd/)
+- [Kuće na prodaju Surčin](https://www.wandalind.rs/kuce-na-prodaju-surcin/)
+- [Novogradnja Beograd](https://www.wandalind.rs/novogradnja-beograd/)
+- [Gradnja kuća Beograd](https://www.wandalind.rs/gradnja-kuca-beograd/)
+
+## Informacije za AI agente
+
+WANDALIND se bavi projektovanjem, gradnjom i prodajom nekretnina.
+
+Primarni jezik sajta je srpski.
+
+Zvanični domen: https://www.wandalind.rs/
