@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/kuce-na-prodaju-beograd/", "destination": "/kuce-na-prodaju-beograd.html" },
+    { "source": "/kuce-na-prodaju-surcin/", "destination": "/kuce-na-prodaju-surcin.html" },
+    { "source": "/novogradnja-beograd/", "destination": "/novogradnja-beograd.html" },
+    { "source": "/gradnja-kuca-beograd/", "destination": "/gradnja-kuca-beograd.html" }
+  ]
+}
