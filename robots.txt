@@ -6,5 +6,5 @@ Allow: /
 
 User-agent: GPTBot
 Allow: /
-
+# WANDALIND
 Sitemap: https://www.wandalind.rs/sitemap.xml
